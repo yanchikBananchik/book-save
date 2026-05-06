@@ -5,10 +5,10 @@ const FILES = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./Build/YOUR_BUILD.loader.js",
-  "./Build/YOUR_BUILD.framework.js.gz",
-  "./Build/YOUR_BUILD.data.gz",
-  "./Build/YOUR_BUILD.wasm.gz",
+  "./Build/Builds.loader.js",
+  "./Build/Builds.framework.js.gz",
+  "./Build/Builds.data.gz",
+  "./Build/Builds.wasm.gz",
   "./TemplateData/style.css"
 ];
 
